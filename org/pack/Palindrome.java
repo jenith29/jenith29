@@ -20,9 +20,11 @@ public class Palindrome {
 		if (rev.equals(s)) {
 			
 			System.out.println("Palindrome");
+			System.out.println("====================");
 		} else {
 
 			System.out.println("Not Palindrome");
+			System.out.println("===================");
 		}
 		
 	}
